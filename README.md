@@ -32,7 +32,7 @@ Run shell TCP server(attacker)
   py shell_server.py
 ```
 
-And run client(victim)__
+And run client(victim)  
 When client is running, you will be auto connected to server.
 
 #### Linux:
