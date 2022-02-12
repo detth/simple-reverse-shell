@@ -33,7 +33,7 @@ Run shell TCP server(attacker)
 ```
 
 And run client(victim)
-When client is running, you will be auto connected to server.
+\nWhen client is running, you will be auto connected to server.
 
 #### Linux:
 ```bash
