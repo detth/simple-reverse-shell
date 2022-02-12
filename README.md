@@ -32,8 +32,7 @@ Run shell TCP server(attacker)
   py shell_server.py
 ```
 
-And run client(victim)  
-When client is running, you will be auto connected to server.
+Run client(victim)
 
 #### Linux:
 ```bash
@@ -44,8 +43,8 @@ When client is running, you will be auto connected to server.
 ```bash
   py shell_client.py
 ```
-
-If client is connected, you can execute some commands in terminal, like ifconfig, ipconfig, notepad.exe etc.
+When client is running, you will be auto connected to server.  
+If client is connected, you can execute some commands in terminal, like as: ifconfig, ipconfig, notepad.exe etc.
 
 ## License
 
