@@ -43,7 +43,7 @@ Run client(victim)
 ```bash
   py shell_client.py
 ```
-When client is running, you will be auto connected to server.  
+When client is running, you will be auto connect to server.  
 If client is connected, you can execute some commands in terminal, like as: ifconfig, ipconfig, notepad.exe etc.
 
 ## License
